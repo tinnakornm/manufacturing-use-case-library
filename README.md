@@ -12,4 +12,4 @@ This repository aims to document and share those learnings.
 
 ## Articles
 
-- 001 สิ่งที่มีค่าที่สุดในระบบ MES ของโรงงาน ไม่ใช่ Source Code
+- [001 สิ่งที่มีค่าที่สุดในระบบ MES ของโรงงาน ไม่ใช่ Source Code](articles/001-why-source-code-is-not-the-most-valuable-asset.md)
